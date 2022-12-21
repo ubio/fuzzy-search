@@ -1,5 +1,5 @@
 {
-    "name": "@ubio/fuzzy-search",
+    "name": "@automationcloud/fuzzy-search",
     "version": "35.0.0",
     "description": "Fuzzy search used in Autopilot",
     "main": "out/main/index.js",
